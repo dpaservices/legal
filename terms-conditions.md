@@ -1,254 +1,64 @@
-###Terms and Conditions of Service
+DPA Services Ltd provides website design and related services throughout the UK, this page outlines our terms and conditions and will also provide you with a better idea of how we work enabling both DPA Services Ltd and its clients to fully understand where we stand.
 
-Thank you for choosing DPA Services! These Terms of service (the “Terms”)
-govern your access to and use of DPA Services (“we” or “our”) websites
-and services (the “Services”), so please read them carefully before
-using the Services.
+Upon acceptance of a proposal and or agreement both parties enter into a contract.  You will give us everything we need to complete the project, as and when and in the format we need it. You will review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you will also be bound by dates we set together. You will also agree to stick to the payment schedule set out within the contract.
 
-By using the Services you agree to be bound by these Terms. If you
-are using the Services on behalf of an organization, you are agreeing
-to these Terms for that organization and promising that you have the
-authority to bind that organization to these Terms. In that case,
-“you” and “your” will refer to that organization.
+Us: We have the experience and ability to do everything we’ve agreed with you and we will do it all in a professional and timely manner.
 
-You may use the Services only in compliance with these Terms. You may
-use the Services only if you have the power to form a contract with
-DPA Services Ltd and are not barred under any applicable laws from doing
-so. The Services may continue to change over time as we refine and
-add more features.
+###Design and Development
 
-###Your Archives & Your Privacy
+We create look-and-feel designs and flexible layouts that adapt to the capabilities of many devices and screen sizes where applicable. We create designs iteratively and use predominantly HTML and CSS so we don’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call this a ‘design atmosphere.’
 
-By using our Services you provide us with information, files, and
-folders that you submit to DPA Services Ltd (together, “Your Archives”).
-You retain full ownership of the content of Your Archives. We do not
-claim any ownership to such content. These Terms do not grant us any
-rights to the content of Your Archives or intellectual property,
-except for the limited rights that are needed to run the Services, as
-explained below.
+You will have plenty of opportunities to review our work and provide feedback. We will share our working Dropbox or development area with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
 
-In providing the Services we shall not require any permission from
-you regarding Your Archives. This includes design choices we
-make to technically administer our Services, for example, how we
-redundantly backup data to keep it safe. By signing these Terms of
-Service You give us the permissions we need to proceed to all
-technical tasks required to provide the Services. This permission
-also extends to trusted third parties we work with to provide the
-Services, for example Amazon, which provides our storage space;
-however, such permission is extended only for the provision of the
-Services.
+###Text content
 
-To be clear, aside from the rare exceptions we identify in our
-Privacy Policy, no matter how the Services change, we shall not share
-your content with others, including law enforcement, with the
-exception of an Archive Certificate holder for Your Archives, for any
-purpose unless you direct us to. How we collect and use your
-information generally is also explained in our privacy policy.
+We are not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for this.
 
-You are solely responsible for your conduct, the content of Your
-Archives, and your communications with others while using the
-Services. For example, it is your responsibility to ensure that you
-have the rights or permission needed to comply with these Terms as an
-Archive Certificate holder.
+###Photographs
 
-The only content of Your Archives that we may view is metadata such
-as the following: the Archive ID, the email address stated upon
-uploading Archives, the date and time of such upload, the checksum
-and the indication of AES-256-CTR encryption. You acknowledge that
-DPA Services Ltd has no obligation to monitor any information on the
-Services. We are not responsible for the legality of Your Archives or
-the content thereof or any other information you may be able to
-access using the Services.
+You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you would like us to search for stock photographs on your behalf, we can provide a separate estimate for that.
 
-Please consider carefully sharing or making your Archive Certificate
-public. DPA Services Ltd has no responsibility for that activity. We urge
-you to keep any and all copies of Archive Certificates safe. In case
-an Archive Certificate and/or the content thereof is stolen, the
-culprit shall be able to access any and all files stored in the
-corresponding Archive. We may automatically limit your downloads for
-a short period of time, in cases of uncommonly large amounts of
-traffic. Our service is not intended to be used for public file
-sharing.
+###HTML, CSS and JavaScript
 
-###Your Obligations and Responsibilities
+We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
 
-Files and other content in the Services may be protected by
-intellectual property rights of others. Please do not copy, upload,
-download, or share files unless you have the right to do so. You, not
-DPA Services Ltd, will be fully responsible and liable for what you copy,
-share, upload, download or otherwise use while using the Services.
-You must not upload spyware or any other malicious software to the
-Services.
+###Browser testing
 
-If your contact information, or other information related to your
-account, changes, you must notify us promptly and keep your
-information current. The Services are not intended for use by you if
-you are under 13 years of age. By agreeing to these Terms, you are
-representing to us that you are over 13.
-
-###Our responsibility
-
-DPA Services Ltd will store Your Archives in the DPA Services Ltd Storage Space
-you purchased and uploaded them to for the duration of thirty (30)
-years and will keep Your Archives safe therein from any loss or
-corruption. Your Archives are identified by their Archive ID, size
-stated in bytes and checksum indicated on each Archive Certificate.
-You or anyone with an Archive Certificate may, at any time during the
-thirty year period of any of Your Archives, retrieve Your Archives by
-sending us the Archive ID indicated on the corresponding Archive
-Certificate. From the moment you request the retrieval of Your
-Archives from DPA Services Ltd, it may take up to four (4) hours until
-DPA Services Ltd emails you a link that enables you to download Your
-Archives. 
-
-If such Archive Certificate is lost and no copy thereto exists, then
-it is impossible for DPA Services Ltd to retrieve Your Archives in
-question. The reason is that the key to decrypting Your Archives is
-on the corresponding Archive Certificate. That is why we urge you to
-keep (hard) copies of Archive Certificates in a safe place.
-
-###Account Security
-
-You are responsible for safeguarding the password that you use to
-access the Services and you agree not to disclose your password to
-any third party. You are responsible for any activity using your
-account, whether or not you authorized that activity. You should
-immediately notify DPA Services Ltd of any unauthorized use of your
-account.
-
-###Software and Updates
-
-Some use of our Service may require you to download a client software
-package (“Software”). DPA Services Ltd hereby grants you a limited,
-nonexclusive, nontransferable, revocable license to use the Software,
-solely to access the Services under open source licenses. Also, if we
-provide you with any software under an open source license, there may
-be provisions in those licenses that expressly conflict with these
-Terms, in which case the open source provisions will apply. Your
-license to use the Software is automatically revoked if you violate
-these Terms in a manner that implicates our intellectual property
-rights. We hereby reserve all rights not expressly granted in these
-Terms. You must not reverse engineer or decompile the Software, nor
-attempt to do so, nor assist anyone else to do so. Our Services may
-update the Software on your device automatically when a new version
-is available.
-
-###Other Content
-
-The Services may contain links to third-party websites or resources.
-DPA Services Ltd does not endorse and is not responsible or liable for
-their availability, accuracy, the related content, products, or
-services. You are solely responsible for your use of any such
-websites or resources.
-
-###DPA Services Ltd Property and Feedback
-
-These Terms do not grant you any right, title, or interest in the
-Services, Software, or the content in the Services. While we
-appreciate it when users send us feedback, please be aware that we
-may use any feedback, comments, or suggestions you send us or post in
-our forums without any obligation to you. The Software and other
-technology we use to provide the Services are protected by copyright,
-trademark, and other laws of both the European Union and the
-applicable laws of its member states. These Terms do not grant you any
-rights to use the DPA Services Ltd trademarks, logos, domain names, or
-other brand features.
-
-###Acceptable Use Policy
-
-You will not, and will not attempt to, misuse the Services, and will
-use the Services only in a manner consistent with the acceptance Policy
-
-###Copyright
-
-DPA Services Ltd respects others' intellectual property and asks that you
-do, too. We will respond to notices of alleged copyright infringement
-if they comply with the law and are properly provided to us. We
-reserve the right to delete or disable content alleged to be
-infringing and to terminate repeat infringers. Please send your
-notices to the following address:
-
-DPA Services Ltd  
-190 St Chads Road,  
-Tilbury, Essex   
-contact@dpaservices.ltd  
-
-###Termination
-
-Though we would prefer you stayed, you can stop using our Services at any
-time. We reserve the right to suspend or end the Services at any
-time, with or without cause, and with or without notice. For example,
-we may suspend or terminate your use if you are not complying with
-these Terms, or use the Services in any way that would cause us legal
-liability or disrupt others' use of the Services. If we suspend or
-terminate your use, we will let you know in advance and retrieve your
-data, though there may be some cases (for example, repeatedly or
-flagrantly violating these Terms, a court order, or danger to other
-users) where we may suspend immediately.
-
-###DPA Services Ltd is Available “AS-IS”
-
-Though we want to provide a great service, there are certain things
-about the service we cannot promise. For example, the services and
-software are provided “as-is”, at your own risk, without express or
-implied warranty or condition of any kind. We also disclaim any
-warranties of merchantability, fitness for a particular purpose or
-non-infringement. DPA Services Ltd will have no responsibility for any
-harm to your computer system, loss or corruption of data, or other
-harm that results from your access to or use of the Services or
-Software.
-
-###Limitation of Liability
-
-You are responsible for maintaining and protecting all of your
-Archive Certificates.
-
-DPA Services Ltd will be liable for any loss or corruption of Your
-Archives, or for any costs or expenses associated with backing up or
-restoring any of Your Archives for an amount per Archive not greater
-than the amounts paid by you to DPA Services Ltd for the services in
-question.
-
-To the fullest extent permitted by law, in no event will DPA Services Ltd,
-its affiliates, officers, employees, agents, suppliers or licensors
-be liable for any indirect, special, incidental, punitive, exemplary
-or consequential (including loss of use, data, business, or profits)
-damages, regardless of legal theory, whether or not DPA Services Ltd has
-been warned of the possibility of such damages, and even if a remedy
-fails of its essential purpose; DPA Services Ltd' aggregate liability for
-all claims relating to the services shall not exceed the amounts paid
-by you to DPA Services Ltd for the services in question.
-
-###Modifications
-
-We may revise these Terms from time to time and the most current
-version will always be posted on our website. If a revision, in our
-sole discretion, is material we will notify you (for example via
-email to the email address stated in your account profile).
-
-###Miscellaneous Legal Terms
-
-These Terms and the use of the services and software will be governed
-by the laws of the Hellenic Republic except for the conflict of laws
-principles thereof. All claims arising out of or relating to these
-Terms or the services or software must be litigated exclusively in
-the courts of the United Kingdom and both parties consent to venue and
-personal jurisdiction there. These Terms constitute the entire and
-exclusive agreement between you and DPA Services Ltd with respect to the
-Services, and supersede and replace any other agreements, terms and
-conditions applicable to the Services. These Terms create no third
-party beneficiary rights. DPA Services Ltd' failure to enforce a
-provision is not a waiver of its right to do so later. If a provision
-is found unenforceable the remaining provisions of the Agreement will
-remain in full effect and an enforceable term will be substituted
-reflecting our intent as closely as possible. By providing access to
-your Archive Certificate(s) you grant your rights to access, decrypt
-and share the corresponding Archives to any and all persons that
-acquire such access. DPA Services Ltd may assign its rights to any of its
-affiliates or subsidiaries, or to any successor in interest of any
-business associated with the Services. DPA Services Ltd and you are not
-legal partners or agents; instead, our relationship is that of
-independent contractors.
+Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
 
 
-Our Terms and Conditions are placed into version control to ensure total transparency, you can view the source of this page here: https://github.com/dpaservices/legal/blob/master/service-terms.md and all past versions.
+###Technical support
+
+We will offer you technical support 365 days a year on the condition that you continue to host your website with us, if your website is hosted with a third party we cannot remain responsible for it in any shape or form. All websites that we host are located here in sunny Essex, they are hosted on a dedicated web server that is backed up to another location 35 miles away every night, this allows us to ensure we offer maximum uptime to our clients. The key benefit of us hosting your website in house is that you have no call centres to wait for and the IP address range is locally registered offering some SEO benefit to your website. in the event of a problem we can resolve issues very quickly and efficiently.
+
+###Changes and revisions
+
+We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We do not want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we will need to accomplish everything you have told us that you want to achieve, but we are happy to be flexible. If you want to change your mind or add anything new, this won’t be a problem as we will provide a separate estimate for that.
+
+###Legal stuff
+
+We can’t guarantee that our work will be error-free and so we can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you have advised us of them. Finally, if any provision of any contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from such contract and shall not affect the validity and enforceability of any remaining provisions.
+
+###Copyrights
+
+First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you have permission to use them.
+
+When your final payment has cleared and the project is completed, copyright will be automatically assigned as follows:
+
+You will own the visual elements that we create for this project. We will give you access to source files and finished files. You own all elements of text, images and data you provided, unless someone else owns them.
+
+We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+
+We love to show off our work and share what we have learned with other people, so we reserve the right to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
+
+###Payments
+
+We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+
+[payment info here]
+
+#####But where’s all the horrible small print?
+
+Just like a parking ticket, you can’t transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
+
+Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of the courts in England & Wales.
