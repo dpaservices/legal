@@ -28,9 +28,8 @@ We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets fo
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
 
 
-###Technical support
+###Website Maintenance
 
-We will offer you technical support 365 days a year on the condition that you continue to host your website with us, if your website is hosted with a third party we cannot remain responsible for it in any shape or form. All websites that we host are located here in sunny Essex, they are hosted on a dedicated web server that is backed up to another location 35 miles away every night, this allows us to ensure we offer maximum uptime to our clients. The key benefit of us hosting your website in house is that you have no call centres to wait for and the IP address range is locally registered offering some SEO benefit to your website. in the event of a problem we can resolve issues very quickly and efficiently.
 
 ###Changes and revisions
 
