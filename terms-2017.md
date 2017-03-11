@@ -1,4 +1,3 @@
-#Terms & Conditions
 DPA Services Ltd provides website design and related services throughout the UK, this page outlines our terms and conditions and will also provide you with a better idea of how we work enabling both DPA Services Ltd and its clients to fully understand where we stand.
 
 Upon acceptance of a proposal and or agreement both parties enter into a contract.  You will give us everything we need to complete the project, as and when and in the format we need it. You will review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you will also be bound by dates we set together. You will also agree to stick to the payment schedule set out within the contract.
