@@ -6,9 +6,9 @@ Us: We have the experience and ability to do everything we’ve agreed with you 
 
 ###Design and Development
 
-We create look-and-feel designs and flexible layouts that adapt to the capabilities of many devices and screen sizes where applicable. We create designs iteratively and use predominantly HTML and CSS so we don’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call this a ‘design atmosphere.’
+We create look-and-feel designs and flexible layouts that adapt to the capabilities of many devices and screen sizes where applicable. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call this a ‘design atmosphere’ this will be provieded to you in image format for your approval.
 
-You will have plenty of opportunities to review our work and provide feedback. We will share our working Dropbox or development area with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+You will have plenty of opportunities to review our work and provide feedback. We will share our work via Dropbox or our development area with you and have regular contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel the contract.
 
 ###Text content
 
@@ -16,7 +16,7 @@ We are not responsible for writing or inputting any text copy. If you’d like u
 
 ###Photographs
 
-You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you would like us to search for stock photographs on your behalf, we can provide a separate estimate for that.
+You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you would like us to search for stock photographs on your behalf, we can provide a separate estimate for that.
 
 ###HTML, CSS and JavaScript
 
@@ -26,13 +26,9 @@ We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets fo
 
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
 
-
-###Website Maintenance
-
-
 ###Changes and revisions
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We do not want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we will need to accomplish everything you have told us that you want to achieve, but we are happy to be flexible. If you want to change your mind or add anything new, this won’t be a problem as we will provide a separate estimate for that.
+We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We do not want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we will need to accomplish everything you have told us that you want to achieve, but we are happy to be flexible. If you want to change your mind or add anything new, this won’t be a problem as we will provide a separate estimate for that. Any additions to the website or additinal functionality that is not in the initial agreement will be completed at the end of the initial contract.
 
 ###Legal stuff
 
@@ -44,17 +40,13 @@ First, you guarantee that all elements of text, images or other artwork you prov
 
 When your final payment has cleared and the project is completed, copyright will be automatically assigned as follows:
 
-You will own the visual elements that we create for this project. We will give you access to source files and finished files. You own all elements of text, images and data you provided, unless someone else owns them.
-
-We will own the unique combination of these elements that constitutes a complete design and we will license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+You will own the visual elements that we create for this project (the theme). We will give you access to source files and finished files. You own all elements of text, images and data you provided, unless someone else owns them.
 
 We love to show off our work and share what we have learned with other people, so we reserve the right to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
 
 ###Payments
 
-We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
-
-[payment info here]
+We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the payment schedule.
 
 #####But where’s all the horrible small print?
 
