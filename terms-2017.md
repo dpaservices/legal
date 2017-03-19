@@ -64,7 +64,7 @@ You agree to pay our initial invoice upon receipt which will act as a deposit fo
 
 In the event that we incurr legal fees, costs and disbursements in an effort to collect our invoices, in addition to any administration fees, you agree to reimburse us for these expenses.
 
-#####But where’s all the horrible small print?
+###But where’s all the horrible small print?
 
 Just like a parking ticket, you can’t transfer this contract to anyone else without our permission. This contract stays in place and need not be renewed. If for some reason one part of this contract becomes invalid or unenforceable, the remaining parts of it remain in place.
 
