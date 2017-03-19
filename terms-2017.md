@@ -6,7 +6,7 @@ Us: We have the experience and ability to do everything we’ve agreed with you 
 
 ###Design and Development
 
-We create look-and-feel designs and flexible layouts that adapt to the capabilities of many devices and screen sizes where applicable. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call this a ‘design atmosphere’ this will be provieded to you in image format for your approval.
+We create look-and-feel designs and flexible layouts that adapt to the capabilities of many devices and screen sizes where applicable. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call this a ‘design atmosphere’ these will be provided to you in image format for your approval.
 
 You will have plenty of opportunities to review our work and provide feedback. We will share our work via Dropbox or our development area with you and have regular contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel the contract.
 
@@ -34,6 +34,15 @@ We know from experience that fixed-price contracts are rarely beneficial to you,
 
 We can’t guarantee that our work will be error-free and so we can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you have advised us of them. Finally, if any provision of any contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from such contract and shall not affect the validity and enforceability of any remaining provisions.
 
+###Mutual Cooperation
+We agree to use our best efforts to fulfill and exceed your expectation on the deliverables listed in the scope of work. You agree to aid us in doing so by making available the information as needed that we require and to work with us to expedite the work.
+
+###Charges for Services Performed
+Functionality or feature requests above and beyond those listed in our proposal may be considered out-of-scope and an amendment to the budget will be recommended.
+
+###Dormant Projects
+Projects that go dormant for longer than 30 days will incur a fee to resume work, this will be at the descretion of DPA Services Ltd.
+
 ###Copyrights
 
 First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you have permission to use them.
@@ -47,6 +56,13 @@ We love to show off our work and share what we have learned with other people, s
 ###Payments
 
 We are sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the payment schedule.
+
+DPA Services will invoice 50% of the initial fees at the point you accept the proposal by way of signature, this will act as a non refundable deposit. The remaining 50% will be billed monthly as the service hours are spent or upon completion of the development.
+
+###Client Agreement To Pay
+You agree to pay our initial invoice upon receipt which will act as a deposit for the project. Every invoice after that will have 15 day payment terms. In the event an invoice is not satisfied within 15 days DPA Services will apply an administration fee at its descretion in order to chase and satisfy the account balance at that point in time. DPA Services Ltd reserves the right to stop development and or stop web services until full payment has been made.
+
+In the event that we incurr legal fees, costs and disbursements in an effort to collect our invoices, in addition to any administration fees, you agree to reimburse us for these expenses.
 
 #####But where’s all the horrible small print?
 
